@@ -33,3 +33,5 @@ size = Vector3(100, 2, 100)
 
 [node name="GridMap" type="GridMap" parent="."]
 mesh_library = ExtResource("1_hnric")
+cell_size = Vector3(4, 4, 4)
+cell_center_y = false
